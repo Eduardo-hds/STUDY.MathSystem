@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaMatematica", "SistemaMatematica\SistemaMatematica.csproj", "{23C1747A-38E1-46D8-B5A3-7603EC25D470}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23C1747A-38E1-46D8-B5A3-7603EC25D470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C1747A-38E1-46D8-B5A3-7603EC25D470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C1747A-38E1-46D8-B5A3-7603EC25D470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C1747A-38E1-46D8-B5A3-7603EC25D470}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A469A2F4-DCE0-43F5-87A5-1F3152B0525D}
+	EndGlobalSection
+EndGlobal
